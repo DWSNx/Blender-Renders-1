@@ -1,9 +1,9 @@
-#Blender Render Showcase
+# Blender Render Showcase
 
-###Project Overview
+### Project Overview
 A showcase of three 3D still renders created with Blender and Photoshop.
 
-###Renders
+### Renders
 
 ![pillar](geopillars.png)
 ![fan](industrialfan.png)
